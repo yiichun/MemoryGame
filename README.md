@@ -33,3 +33,7 @@
 5. 通關結算
 
 <img width="2879" height="1799" alt="image" src="https://github.com/user-attachments/assets/9391903d-ed3c-498f-8821-7c46a468d4ff" />
+
+6. 遊戲規則視窗
+
+<img width="2879" height="1799" alt="image" src="https://github.com/user-attachments/assets/67eb2c50-2fa7-4120-b53b-5958303f511d" />
